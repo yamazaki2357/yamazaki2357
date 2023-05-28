@@ -3,6 +3,9 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yamazaki2357&theme=onedark&show_icons=ture" />
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=yamazaki2357&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
+
 <a href="https://twitter.com/yamazaki2357">
   <img src="https://img.shields.io/badge/yamazaki-Twitter-1DA1F2.svg?logo=twitter&style=plastic">
 </a>
